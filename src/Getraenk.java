@@ -39,6 +39,28 @@ public enum Getraenk {
 
     }
 
+    public int getVerfügbareAnzahl() { // Verfügbare Anzahl der Getränke
+
+        switch (this) {
+
+            case COCA_COLA:
+            case SPRITE:
+                return 5;
+            case COCA_COLA_ZERO:
+                return 4;
+            case FANTA:
+            case MONSTER_ENERGY:
+                return 3;
+            case CAPRI_SUN:
+            case WASSER:
+                return 2;
+            case WASSER_STILL:
+                return 0;
+
+        }
+        return 0;
+    }
+
 
 
 }

@@ -32,4 +32,22 @@ public enum Muenze {
 
     }
 
+    public int getVerfügbareAnzahl() { // Verfügbare Anzahl der Getränke
+
+        switch (this) {
+
+            case TEN_CENT:
+            case TWENTY_CENT:
+                return 20;
+            case FIFTY_CENT:
+                return 2;
+            case ONE_EURO:
+                return 1;
+            case TWO_EURO:
+                return 0;
+
+        }
+        return 0;
+    }
+
 }
