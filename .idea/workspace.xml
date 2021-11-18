@@ -2,10 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0d9f9ba6-0e8c-4ddc-8ccd-c797bd86d1c3" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Sorte.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Getraenk.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Getraenk.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/GetraenkeAutomat.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/GetraenkeAutomat.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/test1.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/test1.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -74,7 +74,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1637223967942</updated>
-      <workItem from="1637223969669" duration="9648000" />
+      <workItem from="1637223969669" duration="10977000" />
     </task>
     <task id="LOCAL-00001" summary="updated">
       <created>1637226769902</created>
